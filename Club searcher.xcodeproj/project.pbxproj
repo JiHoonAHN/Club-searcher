@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE451AC625D5F02F0007B76B /* SearcherTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE451AC525D5F02F0007B76B /* SearcherTableViewController.swift */; };
 		EEBFEAE825D59A2800C924AB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEBFEAE725D59A2800C924AB /* AppDelegate.swift */; };
 		EEBFEAEA25D59A2800C924AB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEBFEAE925D59A2800C924AB /* SceneDelegate.swift */; };
 		EEBFEAEC25D59A2800C924AB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEBFEAEB25D59A2800C924AB /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EE451AC525D5F02F0007B76B /* SearcherTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearcherTableViewController.swift; sourceTree = "<group>"; };
 		EEBFEAE425D59A2800C924AB /* Club searcher.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Club searcher.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEBFEAE725D59A2800C924AB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EEBFEAE925D59A2800C924AB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				EEBFEAE725D59A2800C924AB /* AppDelegate.swift */,
 				EEBFEAE925D59A2800C924AB /* SceneDelegate.swift */,
 				EEBFEAEB25D59A2800C924AB /* ViewController.swift */,
+				EE451AC525D5F02F0007B76B /* SearcherTableViewController.swift */,
 				EEBFEAED25D59A2800C924AB /* Main.storyboard */,
 				EEBFEAF025D59A2800C924AB /* Assets.xcassets */,
 				EEBFEAF225D59A2800C924AB /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE451AC625D5F02F0007B76B /* SearcherTableViewController.swift in Sources */,
 				EEBFEAEC25D59A2800C924AB /* ViewController.swift in Sources */,
 				EEBFEAE825D59A2800C924AB /* AppDelegate.swift in Sources */,
 				EEBFEAEA25D59A2800C924AB /* SceneDelegate.swift in Sources */,
